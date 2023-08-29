@@ -46,3 +46,8 @@ video {
     height: 100%;
     overflow: hidden;
 }
+
+.przyciemione {
+    background-color: #000;
+    opacity: 50%;
+}
